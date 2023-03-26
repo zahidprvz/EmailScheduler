@@ -17,7 +17,7 @@ Clone this repository:
 bash
 
 Copy code
-git clone https://github.com/zpmughal/Email-Scheduler.git
+git clone https://github.com/zpmughal/EmailScheduler.git
 
 Install the required dependencies using pip:
 
